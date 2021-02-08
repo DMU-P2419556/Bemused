@@ -1,0 +1,77 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+h1  {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+body  {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+  }
+
+  div {
+    display: block;
+}
+
+.content {
+    margin: 20px 0;
+  }
+
+  div {
+  display: block;
+}
+
+.tshirt-listing {
+  display: flex;
+  align-items: flex-start;
+}
+
+.tshirt-listing img {
+  width:30%;
+  margin: 10px;
+}
+
+.tshirt-listing .details {
+  margin: 10px;
+}
+
+button {
+  background-color: #f53fff
+  border: none;
+  padding: 10px;
+}
+
+button {
+  appearance: auto;
+      -webkit-writing-mode: horizontal-tb !important;
+      text-rendering: auto;
+      color: -internal-light-dark(black, white);
+      letter-spacing: normal;
+      word-spacing: normal;
+      text-transform: none;
+      text-indent: 0px;
+      text-shadow: none;
+      display: inline-block;
+      text-align: center;
+      align-items: flex-start;
+      cursor: default;
+}
